@@ -1,0 +1,26 @@
+.centered-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.centered-form > .search_main {
+    margin-bottom: 10px;
+}
+
+div > ul {
+    text-align: center;
+}
+
+div > ul > li {
+    display: inline-block;
+    margin: 16px 32px;
+}
+
+div > ul > li > a {
+    text-decoration: none;
+    color: white;
+    background-color: #0d6efd;
+    border-radius: 2px;
+    padding: 4px;
+}

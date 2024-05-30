@@ -1,0 +1,29 @@
+.centered-form {
+}
+.centered-form > div{
+    display: inline;
+    /* margin: 16px; */
+}
+.centered-form > .search_main {
+    background-color: #8ab4f8;
+    color: white;
+    border: none;
+    padding: 8px;
+}
+
+div > ul {
+    padding: 0;
+}
+
+div > ul > li {
+    display: inline-block;
+    margin: 16px;
+}
+
+div > ul > li > a {
+    text-decoration: none;
+    color: white;
+    background-color: #0d6efd;
+    border-radius: 2px;
+    padding: 4px;
+}
